@@ -1,3 +1,7 @@
 This is my first file.
 
 second line
+
+other line to prove it is working. 
+
+Adding new feature in the third line
